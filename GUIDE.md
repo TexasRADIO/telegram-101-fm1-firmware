@@ -32,4 +32,4 @@ SAVE on Telegram Home opens the sound library. Coming from BB1, Telegram asks fo
 
 ## Interrupted install and return
 
-If the transfer was interrupted and the FM-1 is still in its MIDI updater, reconnect it and use Resume install. A physical return from Build 857 to M-VAVE factory V15 remains unverified. If you depend on that return, keep your current firmware.
+If the transfer was interrupted and the FM-1 is still in its MIDI updater, reconnect it and use Resume install. A compatible application return is retained for support; factory V15 is not required for recovery.
