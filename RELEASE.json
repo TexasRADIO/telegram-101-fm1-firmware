@@ -1,0 +1,11 @@
+{
+  "name": "Telegram-101-FM-1",
+  "build": 857,
+  "models": {
+    "FM-1": {
+      "product": "FM-1_101857",
+      "sha256": "e159f733921070f0539aefbcd716266503ca359c6ec8cb131b068f6764a5fa09",
+      "file": "Firmware/Telegram-101-FM1-857.fwsc"
+    }
+  }
+}

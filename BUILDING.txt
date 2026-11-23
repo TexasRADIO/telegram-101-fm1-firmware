@@ -1,0 +1,4 @@
+Use Python 3 and the JieLi 20260730.1 PI32 toolchain on Linux. Set TOOLCHAIN to the directory containing pi32v2 and common. From the source root run:
+
+python3 board/build.py --toolchain "$TOOLCHAIN" --model fm1 --build-number 857 --out build/rebuilt-fm1 --synth-presets build/synth-presets --band-presets build/band-presets --dillo --drums --single-808 --drum-render-in-ram --dillo-render-in-ram --render-profile
+python3 board/verify.py build/rebuilt-fm1

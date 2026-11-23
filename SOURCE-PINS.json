@@ -1,0 +1,101 @@
+{
+  "vendor/bb/bb_core.c": {
+    "sha256": "76e1e4e61bec33f0edbb5afda2e7dedfc8485e4594edbc075e6ed00919fafa92"
+  },
+  "vendor/bb/bb_core.h": {
+    "sha256": "c590cad1ca81f423aec551ff2363c52cec1cabf0965151eaea18724780d92ac6"
+  },
+  "vendor/bb/bb_drum_sound.h": {
+    "sha256": "ad9f50d80cdb3344ebf72933c83c1f417cbe33b31ea43853235e1e1addce768c"
+  },
+  "vendor/bb/bb_drum_sound.inc": {
+    "sha256": "0e89eb4296ab7065cf81b0d2f87de923583e14099ad02d014f2a4289a346de58"
+  },
+  "vendor/bb/bb_fx_settings.h": {
+    "sha256": "d0c29d5caede77e6a661b9fb1c91d6e95afd04618ca3ec740f9f397afba177dd"
+  },
+  "vendor/bb/bb_dillo.c": {
+    "sha256": "8c798eac63f5a7be2412a221dfc376b39aa3c8f49efee22eeaa7fb01ac75287e"
+  },
+  "vendor/bb/bb_dillo.h": {
+    "sha256": "fb26bc4fe24cc9b0e0aae2575588f5acbf6129ecf007237da9e3c092fd4a79cb"
+  },
+  "vendor/bb/bb_telegram.c": {
+    "sha256": "9d24cdba91711496f8cf6fdaabf6effc21e43b3d23d8df8610e230d16b5cf3fa"
+  },
+  "vendor/bb/bb_telegram.h": {
+    "sha256": "7ce72e08cd0ce978925fd0f16f4e3683785347b3d162cf82aa5634d8ac75f80f"
+  },
+  "vendor/bb/bb_output.c": {
+    "sha256": "7fae5a0f8ad9e60b9b7dfc985156a50ccf3f42b1c644d295500d660dd754c3e8"
+  },
+  "vendor/bb/bb_output.h": {
+    "sha256": "1e839c72ffa63452cd1337bbf0252aa520f4fff70cf8f4f87c3b836f14c9ff35"
+  },
+  "vendor/bb/x0x/bass303.c": {
+    "sha256": "983c0512d4d9576e1543b151947dd1a72fb249b7d1257b508b17cdd6fe6e7412"
+  },
+  "vendor/bb/x0x/bass303.h": {
+    "sha256": "c88c9b86764a45af66ade0bda9ac4c8ea772a513b44b7cd55cd2d77312b26589"
+  },
+  "vendor/bb/x0x/drum808.c": {
+    "sha256": "2367195f2f4f17224880e9cc1419dfd2149d7027cf2a5ae04966f35e1ad37680"
+  },
+  "vendor/bb/x0x/drum808.h": {
+    "sha256": "3a3d6673ac3d746711b511db5a1c6535490fb603546a22ff96879ea46f6d70e1"
+  },
+  "vendor/bb/x0x/drum808_span.inc": {
+    "sha256": "22a0aec4e32c96c0b82e12004850119131e3fc15782cf3ad05ae48e615d791f1"
+  },
+  "vendor/bb/x0x/fastmath.h": {
+    "sha256": "1b7e58931c81d6606535cfa3c26a68bd8a22d752eeabffad3b2d5fe23f5f8f1a"
+  },
+  "vendor/bb/x0x/x0x_param.h": {
+    "sha256": "51bc82a79fdcdb8090ec94e4dd2abe9f95cfb6171e521457678b090ca2010e27"
+  },
+  "vendor/bb/x0x/UPSTREAM_LICENSE": {
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  "vendor/bb/x0x/UPSTREAM_LICENSING.md": {
+    "sha256": "187e81a2da0447cd3783eb53ffce9c63aac22a56a7a688b591ea2dbc5c528f31"
+  },
+  "vendor/bb/LICENSE": {
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  "vendor/bb/LICENSING.md": {
+    "sha256": "89c487f3dc19218cc0d1ec0d73466092a5cbc5ab842a98b9a2f625a215cb0e5e"
+  },
+  "vendor/bb/LICENSES/909-reference-LICENSE": {
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  "vendor/bb/LICENSES/Apache-2.0-msfa.txt": {
+    "sha256": "27dd23b62bc11d0806562397a1e782f86fc7dcacd1ba7a1b58d3c78a54795e62"
+  },
+  "vendor/bb/LICENSES/Apache-2.0.txt": {
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  "vendor/bb/LICENSES/MIT-DaisySP.txt": {
+    "sha256": "7fa755aede5b5c2a8131a6db692f5818ed8d21dcbe632f41618af03b6d698126"
+  },
+  "vendor/bb/LICENSES/MIT-Fukiai.txt": {
+    "sha256": "fddeab17d69ab85a8e9c593beb0e93c279a9d74ff9504e1804bba123cb63e08e"
+  },
+  "vendor/bb/LICENSES/MIT-Rings.txt": {
+    "sha256": "60cd097bf74b2a3a0cadadeddec5d80b6806f83039e6ce9cb0ba511a1f17a2be"
+  },
+  "vendor/bb/LICENSES/OFL-DotGothic16.txt": {
+    "sha256": "5e59cab6d61d59a5b3110ed900dce715383cb2626a473dcf77c13c116aa839eb"
+  },
+  "vendor/bb/LICENSES/OFL-InterTight.txt": {
+    "sha256": "50240ab035cf1b6b3307940235481d515c4b6de3ab1fa843dbe59e7892cb9d58"
+  },
+  "vendor/bb/drum_sound_adapter.inc": {
+    "sha256": "85b21bdac453cffcb0245889372a9c8a80d0d279c5e99b3b62d6c2f80584efcd"
+  },
+  "vendor/smk37/fm1_block.h": {
+    "sha256": "c1b19ddcb3f3d31c26f2e6f39a32128c07fb06f20e6293e9a5ce53cd6e849279"
+  },
+  "vendor/smk37/LICENSE.md": {
+    "sha256": "fe1074bd5cf93cde1d04552f9fc7da7668dbc931988d31eddc82e318eb100ba7"
+  }
+}
