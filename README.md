@@ -9,3 +9,7 @@ Build 857. The Band brings the lead, bass and drums together on the FM-1 keys.
 See [BUILDING.txt](BUILDING.txt) for source build instructions and [THIRD_PARTY.txt](THIRD_PARTY.txt) for credits.
 
 [Launch announcement](LAUNCH.md) · [Directory card](fmhub.json)
+
+Tested on real hardware, including installation and return.
+
+![Telegram 101 on FM-1](media/telegram-101-card.png)
